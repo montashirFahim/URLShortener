@@ -1,0 +1,6 @@
+-- +migrate Down
+DROP TABLE IF EXISTS url_stats;
+DROP TABLE IF EXISTS clicks;
+DROP TABLE IF EXISTS short_urls;
+DROP TABLE IF EXISTS long_urls;
+DROP TABLE IF EXISTS users;
