@@ -32,7 +32,7 @@ The schema is fully normalized for data integrity and analytics, with tables for
 
 ## 🛠️ Prerequisites
 - Docker (for PostgreSQL, Redis, and Consul)
-- Go 1.266+
+- Go 1.26+
 
 ## ⚙️ Initial Setup
 
