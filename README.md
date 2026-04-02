@@ -70,6 +70,6 @@ docker exec -i pg-container psql -U postgres -d url_shortener -c "DROP TABLE IF 
 ---
 
 ## 📚 Documentation
-- **[API Testing Guide](api_testing.md)**: Real-world CURL commands for all 13 endpoints.
-- **[Performance Monitoring](performance_monitoring.md)**: How to track latency and worker pool health.
-- **[Operations Guide](operations_guide.md)**: Detailed setup and deployment instructions.
+- **[API Guide](Backend/api.md)**: API endpoints and usage.
+- **[Performance Guide](Backend/performance.md)**: How to track latency and worker pool health.
+- **[Testing Guide](Backend/testing.md)**: Test instructions and coverage.
