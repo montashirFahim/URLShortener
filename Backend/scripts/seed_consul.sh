@@ -17,7 +17,7 @@ redis:
   port: 6379
   db: 0
 
-jwt_secret: "eatsleeprepeat"
+jwt_secret: "eat-sleep^repeat?"
 port: 8080
 debug: true
 EOF
