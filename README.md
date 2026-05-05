@@ -7,7 +7,7 @@ This project is a robust, production-ready URL shortening backend designed for s
 
 ## 🏗️ System Architecture
 
-![System Architecture](Backend/images/arch.drawio.png)
+![System Architecture](Backend/images/arch2.drawio.png)
 
 The architecture leverages a layered design:
 - **API Server**: Handles HTTP requests, authentication, and routing.
